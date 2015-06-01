@@ -1,2 +1,2 @@
 # mfmrd
-repository for mfmrd project
+repository for mfmrd project, created as part of git installation
